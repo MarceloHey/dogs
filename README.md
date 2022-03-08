@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dogs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project to pratice ReactJS in general, an 'instagram' for Doggos! 
 
 ## Available Scripts
 
